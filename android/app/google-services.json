@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "818019127354-nj79djga3jkdfvuvqenae2getjqglgai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flybuy.site",
+            "certificate_hash": "9c26522b64d665da33562a6c22974663e9a7c77c"
+          }
+        },
+        {
           "client_id": "818019127354-k42vnqmqribkkjdn84d1bklb0cef69iq.apps.googleusercontent.com",
           "client_type": 3
         }
