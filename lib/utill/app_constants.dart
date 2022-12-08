@@ -3,7 +3,7 @@ import 'package:flutter_sixvalley_ecommerce/data/model/response/language_model.d
 class AppConstants {
   static const String APP_NAME = 'Flybuy';
   static const String APP_VERSION = '1.0.3';
-  static const String BASE_URL = 'https://flybuy.site/';
+  static const String BASE_URL = 'https://nativeready.online/';
   static const String USER_ID = 'userId';
   static const String NAME = 'name';
   static const String CATEGORIES_URI = '/api/v1/categories';
